@@ -1,0 +1,8 @@
+classify/cnews/cnews.test.txt
+classify/cnews/cnews.train.txt
+classify/cnews/cnews.val.txt
+classify/cnews/cnews.vocab.txt
+classify/__pycache__/config.cpython-37.pyc
+classify/__pycache__/data.cpython-37.pyc
+classify/__pycache__/model.cpython-37.pyc
+test.pt
